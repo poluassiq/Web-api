@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+sqlalchemy
+aiosqlite
+pydantic
+nats-py
+
